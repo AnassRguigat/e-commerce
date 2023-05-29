@@ -1,0 +1,1 @@
+<h2>hEY</h2><?php /**PATH C:\xampp\htdocs\composer\ecomvape\resources\views/userprofile.blade.php ENDPATH**/ ?>

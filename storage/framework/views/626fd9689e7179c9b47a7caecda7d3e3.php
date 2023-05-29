@@ -1,0 +1,1 @@
+<h1>Single Product</h1><?php /**PATH C:\xampp\htdocs\composer\ecomvape\resources\views/user/product.blade.php ENDPATH**/ ?>
